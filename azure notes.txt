@@ -1,0 +1,10 @@
+
+Data Governance
+Lock option 
+to lock Delete resources
+to make it readonly to the resources
+
+Policy
+ allows users to create resources in specific region
+any resources created out of this location will not allow to deploy 
+
